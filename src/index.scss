@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: dark;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  box-sizing: border-box;
+  padding-inline: 20px;
+  margin-inline: auto;
+}
